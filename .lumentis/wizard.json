@@ -1,0 +1,94 @@
+{
+  "gotDirectoryPermission": true,
+  "smarterModel": "claude-3-opus-20240229",
+  "streamToConsole": false,
+  "loadedPrimarySource": "﻿Estandap: highly efficient daily meetings for agile and remote teams\r\ntl;dr Estandap is a template for daily agile meetings. It includes a daily written update (✅ accomplishments, ❌ misses, 🥅 goals for day, and 🛣goals long-term) and a daily meeting (👓 read all updates, 📝 list topics, and 🗣 discuss them).\r\nS\r\nome agile management methodologies envision daily team meetings during which commitments can be made between members, potential challenges can be identified and discussed, as well as difficult issues resolved. One of the most popular types of these meetings has been around for several decades. It’s called a standup, because attendees typically participate while standing. The inconvenience — if not discomfort — associated with prolonged standing is intentional; it’s inclined to keep meetings focused and short.\r\nWhile traditional standups may remain useful for many, truth is they were created for a pre-remote world where synchronous communication was the norm. Experience has shown they frequently result in ill-considered and improvised updates, contextual mismatches, boredom, and meetings that go way over time.\r\nRemote work and the associated advancements in tools available for asynchronous communication now enable significantly better ways of handling team communication. I’ve been experimenting with multiple team-meeting formats for over a decade-and-a-half while running numerous companies of different sizes (Voice123, Bunny Studio, Torre, and Tribe).\r\nToday, I’m publishing what my various teams and I believe is the most efficient format of all the ones we’ve tried over the years. It reduces input time and maximizes value by combining synchronous, asynchronous, written as well as video communication, and even emojis. We call it Estandap.\r\n  \r\n\r\nThe main goal of Estandap is to enable team members in companies of various sizes to remain aligned, prioritize, empathize, help each other remove blockers, and speed up successful execution. Estandap has two parts:\r\n* A daily asynchronous written update\r\n* A daily synchronous (simultaneous) meeting\r\nEach team within an organization performs both. Teams of more than 20 people tend to have middle-managers (team members who report to a leader but also have team members reporting to them). A middle-manager can thus be a member of two Estandap teams: one composed of the middle-manager’s superior as well as co-workers, and the other composed of only the middle-manager and his/her direct reports.\r\nThe daily written update\r\nAt the beginning of each work day, team members answer the following questions in a shared document (such as Notion or Google Docs) or a channel (such as Slack, Microsoft Teams, or even WhatsApp):\r\n✅ What goals did you accomplish yesterday?\r\n❌ What goals did you miss and why?\r\n🥅 For today, what top achievements are you planning?\r\n🛣 What are your current main objectives and delivery estimates?\r\nGoals should be objective and focused on results. They shouldn’t be a mere list of tasks. Avoid setting ambiguous goals such as “Start working on…” or “Work on…”. Instead, set goals that are objective and/or measurable. For example, “Push live…” or “Complete 50% of…”\r\nSometimes people might view written updates as a reporting tool rather than an alignment tool. If that mindset develops, those people will become less honest with their daily updates for fear of retribution. Team leaders need to emphasize that written updates are simply there to align and enlighten. They’re a safe communal space with a common purpose:\r\n* To make us all more efficient as members of a team;\r\n* To increase speed because of shared project and operational knowledge;\r\n* To act as a prioritization tool for team members and project leaders;\r\n* To create cohesion and learning because we all develop a better understanding of one another’s work;\r\n* To help you structure your own work and share what you’re working on. Be concise and don’t overshare. Ask yourself: “What would be valuable for my team to know?” Then answer that question.\r\n  \r\n\r\nExample of a written update including advanced tips (described below)\r\nThe daily meeting\r\nEvery work day, there’s a meeting. To maximize productivity (by avoiding context switching), the meeting should be scheduled as early as sensibly possible. If doing it remotely, Zoom and Tribe are good tools to use. The preferred agenda is:\r\n👓 Read everyone else’s written updates.\r\n📝 List and prioritize topics that need to be discussed and who should be involved.\r\n🗣 Discuss the topics.\r\nBy default, the meeting is scheduled and moderated by the team leader. Moderation can be rotated among attendees. It adds excitement and allows the team leader to invest more time thinking about strategy.\r\nThe meeting starts with reading, not writing. Team members who join standups without having provided their written updates beforehand, slow down meetings enormously. Written updates should always precede the actual meeting. Meetings are far more engaging without waiting. Waiting sucks!\r\nAs team members read each update, they can add comments for the attention of the author. If there’s a topic worth discussing right away, they can add it to the discussion list — including the names of those who should participate in the conversation.\r\nOnce the reading is done and the topics listed, the moderator prioritizes them. Prioritization can be determined by impact, importance, or number of team members involved. Those who aren’t required to address certain topics can be dismissed to avoid the wastage of their time.\r\nIdeally, topics should require interaction: questions and answers. Those that are purely informative (FYIs), are better handled asynchronously.\r\nIf it becomes evident that a given topic might require more time and attention than the standup should accommodate, a separate meeting must be scheduled to address it.\r\nDaily meetings must be kept as short as possible. Reading updates should take no more than a minute per team member. Inevitably, discussions take more time, but not everyone needs to be involved. A small team of three can invest as little as three minutes reading written updates, while a team of 20 can take 20 minutes.\r\nFor example, I currently have ~20 team members directly reporting to me. I schedule one full hour: ~15 minutes to read the written updates, ~5 minutes to review metrics, and ~40 minutes for participation in any topic that requires my input.\r\nAdvanced tips for the written updates\r\n* To promote increased alignment, include the “why” and/or the metric it is expected to impact for each goal.\r\n* Written updates can become repetitive — especially the answers related to main objectives. To identify what’s changing from day to day more easily, visually highlight new and/or recurrent elements in the answers with colors, icons, etc.\r\n* For large organizations, use hashtags to identify the updates from different teams.\r\n* Ideally, project leaders answering the question What are your current main objectives and delivery estimates? should answer on behalf of their team and avoid focusing too much on their own direct execution.\r\n* Have recently-onboarded team members read the written updates of their new colleagues dating back a month or more. The exercise will provide great insight on an average day-to-day.\r\n* If you use the OKR framework, split the last question into two — one for objectives and one for key results:\r\nWhat are your main objectives and timeframe?\r\nWhat are your key results (and ETAs) that get us closer to the objective?\r\nAdvanced tips for the daily meetings\r\n* If yours is a data-driven team, you could add a few minutes to review and reflect on your daily key-performance indicators (KPIs).\r\n* As you read the daily updates, react with ✅ to indicate you’ve read the update. You can also react with other emoticons to cheer or show support.\r\n* If your team is large, focus on first reading the updates of other team members on which you may have dependencies or vice versa. Sometimes, leaders may have to start reading the updates ahead of time to get through them all.\r\n* If meeting remotely, turn on your cameras. Face-to-face interaction is important. It is likely the only time of the day when all team members get to see one another. Only turn off your cameras while reading the updates. Turn them on to indicate you’re done reading.\r\n* To reduce monotony and increase engagement, have the moderator share something either unique or funny during the course of the meeting.\r\n* Finish the meeting with a rallying cry. As this study found, it may help your team perform better, improve cognitive functions, and even like each other more!\r\nWork in progress\r\nEstandap is far from perfect. Some issues include:\r\n* Finding the right balance between sharing too little and oversharing. Sometimes, team members end up being too detailed about their work. It’s difficult to address this behavior given that it’s better to err on the side of over-communication when working remotely.\r\n* Estandap focuses on inputs more than outputs and outcomes. It needs to be complemented with solid performance-based or outcome-based management frameworks.\r\n* Estandap does a good job of helping teams with alignment, prioritization, empathy, and speed. However, it doesn’t address learning and introspection quite as well. Writing updates already consumes a good measure of cognitive capacity. It requires speed and focus on planning. Adding introspection to the process is likely an overkill. Few people will have the cognitive capability of doing so much when starting their work day. Systematic learning deserves its own, parallel framework.\r\n* When working across multiple time zones, the synchronous portion of Estandap can lead to some team members having to get out the zone to attend the meeting.\r\nEstandap will continue to evolve. As we learn from companies using it and new tech tools become available, Estandap will undoubtedly improve. Got ideas you’d like to contribute? Please share them in the comments below.",
+  "primarySourceFilename": "/Users/alanarguelloorozco/Downloads/Estandap_ highly efficient daily meetings for agile and remote teams.txt",
+  "description": "**Alexander Torrenegra** is a Colombian-American entrepreneur, inventor, and investor. He is the founder and CEO of Torre and has founded multiple companies including Voice123, Bunny Studio, and Tribe.",
+  "title": "Estandap: highly efficient daily meetings for agile and remote teams",
+  "faviconUrl": "https://raw.githubusercontent.com/HebeHH/lumentis/choose-favicon/assets/default-favicon.png",
+  "coreThemes": "Agile Meetings, Remote Work, Team Communication, Asynchronous Communication, Productivity, Goal Setting, Team Alignment, Project Management, Leadership, Performance Management",
+  "intendedAudience": "Managers, Team leaders, Project managers, Agile practitioners, Remote teams, Startups, Tech companies, Software development teams, Product teams, Entrepreneurs",
+  "generatedOutline": {
+    "title": "Estandap: Highly Efficient Daily Meetings for Agile and Remote Teams",
+    "sections": [
+      {
+        "title": "Introduction",
+        "permalink": "introduction",
+        "singleSentenceDescription": "Estandap is a template for daily agile meetings that combines synchronous and asynchronous communication to maximize efficiency and alignment.",
+        "disabled": false
+      },
+      {
+        "title": "The Daily Written Update",
+        "permalink": "daily-written-update",
+        "singleSentenceDescription": "Team members answer a set of questions in a shared document or channel at the beginning of each work day.",
+        "subsections": [
+          {
+            "title": "Questions to Answer",
+            "permalink": "questions-to-answer",
+            "singleSentenceDescription": "The four key questions team members should answer in their daily written updates.",
+            "disabled": false
+          },
+          {
+            "title": "Goals and Mindset",
+            "permalink": "goals-and-mindset",
+            "singleSentenceDescription": "Setting objective goals and maintaining a mindset of alignment and enlightenment.",
+            "disabled": false
+          }
+        ],
+        "disabled": false
+      },
+      {
+        "title": "The Daily Meeting",
+        "permalink": "daily-meeting",
+        "singleSentenceDescription": "A daily synchronous meeting to read updates, list and prioritize topics, and discuss them.",
+        "subsections": [
+          {
+            "title": "Meeting Agenda",
+            "permalink": "meeting-agenda",
+            "singleSentenceDescription": "The three-step agenda for the daily meeting: read, list, and discuss.",
+            "disabled": false
+          },
+          {
+            "title": "Meeting Moderation and Timing",
+            "permalink": "meeting-moderation-and-timing",
+            "singleSentenceDescription": "Tips for moderating the meeting and keeping it as short as possible.",
+            "disabled": false
+          }
+        ],
+        "disabled": false
+      },
+      {
+        "title": "Advanced Tips",
+        "permalink": "advanced-tips",
+        "singleSentenceDescription": "Additional strategies to enhance the effectiveness of Estandap.",
+        "subsections": [
+          {
+            "title": "Tips for Written Updates",
+            "permalink": "tips-for-written-updates",
+            "singleSentenceDescription": "Strategies to improve the quality and clarity of written updates.",
+            "disabled": false
+          },
+          {
+            "title": "Tips for Daily Meetings",
+            "permalink": "tips-for-daily-meetings",
+            "singleSentenceDescription": "Strategies to increase engagement and effectiveness in daily meetings.",
+            "disabled": false
+          }
+        ],
+        "disabled": false
+      },
+      {
+        "title": "Work in Progress",
+        "permalink": "work-in-progress",
+        "singleSentenceDescription": "Challenges and areas for improvement in the Estandap framework.",
+        "disabled": false
+      }
+    ]
+  },
+  "outlineComments": "",
+  "addDiagrams": true,
+  "pageGenerationModel": "claude-3-sonnet-20240229",
+  "preferredRunnerForNextra": "npm",
+  "overwritePages": false
+}
